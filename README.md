@@ -64,6 +64,12 @@ mkdir JohnDoe-Merkle-Tree
 
 Place your task files inside your folder. Ensure proper documentation and organization.
 
+Checkout to your branch to make life easier. Ensure it's organised properly.
+
+```bash
+git checkout -b <your-branch>
+```
+
 ### 7. Commit and Push Your Changes
 
 Save your changes and push them to your forked repository:
